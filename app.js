@@ -73,7 +73,7 @@ app.service('studentService', ['$q', function ($q) {
         {
             "name": "Andrii Leshchyshyn",
             "websiteUrl": "https://andriileshchyshyn.github.io/my_al/",
-            "codeSourceUrl": "",
+            "codeSourceUrl": "https://github.com/AndriiLeshchyshyn/my_al",
             "cvUrl": "",
             "photo": "images/students/leshchyshyn.jpg"
         },
