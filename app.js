@@ -219,8 +219,8 @@ app.service('studentService', ['$q', function ($q) {
         },
         {
             "name": "Yuriy Kokhalevych",
-            "websiteUrl": "https://yurii-kokhalevych.jpg.github.io/fist_page/",
-            "codeSourceUrl": "https://github.com/yurii-kokhalevych.jpg/fist_page",
+            "websiteUrl": "https://yurii-kokhalevych.github.io/fist_page/",
+            "codeSourceUrl": "https://github.com/yurii-kokhalevych/fist_page",
             "cvUrl": "https://www.dropbox.com/s/hx9h2uk2dajtirb/Yuriy_Kokhalevych_CV.pdf?dl=0",
             "photo": "images/students/kokhalevych.jpg"
         },
